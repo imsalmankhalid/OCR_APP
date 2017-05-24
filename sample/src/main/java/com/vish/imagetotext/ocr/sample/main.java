@@ -21,6 +21,7 @@ import android.os.Environment;
 import android.os.Parcelable;
 import android.provider.MediaStore;
 
+import android.support.v7.app.AppCompatActivity;
 import android.system.ErrnoException;
 import android.util.Log;
 import android.view.View;
@@ -58,7 +59,8 @@ public class main  extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.a_main);
         textView = (EditText)findViewById(R.id.editText);
-
+//        Intent intent = new Intent(main.this, Translate_Class.class);
+//        startActivity(intent);
         mCropImageView = (CropImageView) findViewById(R.id.CropImageView);
         String[] paths = new String[] { DATA_PATH, DATA_PATH + "tessdata/" };
 
@@ -315,5 +317,14 @@ public class main  extends Activity {
         } catch (Exception e) {
         }
         return false;
+    }
+
+    public static class TranslateActivity extends AppCompatActivity {
+
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_translate);
+        }
     }
 }
