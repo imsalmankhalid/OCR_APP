@@ -17,8 +17,6 @@ public class TessOCR {
     public TessOCR() {
         // TODO Auto-generated constructor stub
 
-
-
         mTess = new TessBaseAPI();
        // AssetManager assetManager=
         String datapath = Environment.getExternalStorageDirectory() + "/DemoOCR/";
