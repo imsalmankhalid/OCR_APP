@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\.android\build-cache\1a5586d984a7695292dfebc2f7fbb74d5744c49a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\classes_5872c8c35937f032f3a18cdc0b014958f84fabd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\.android\build-cache\bd86d96ebd33f92b72ca519f9fdaa8cbc9a507d4\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_0850bd12882ab53817b8f9361469eede2c5d0e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\Desktop\OCRAPP\cropper\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5dfd6cfc4318c7b3a3a7cd840a94556da786bba">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\classes_8cbbc907acb6af5b68059f662e7359b19ec0e179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\.android\build-cache\b161731a0503d858db30002c166494d0502476ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\classes_d769842761226c48b38c4bc393f65cdfa9863180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\Desktop\OCRAPP\tess-two\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ea8749e271eea12dbf9df54ace065144954045d">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\sample\build\intermediates\pre-dexed\debug\classes_a5d521d61193e55a44255d28b42fab658515a212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\.android\build-cache\4a6bf805b7ddd7300bf6d24fab46b403f14cf6b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\classes_98345261a7fb875a1eba75e9e0a0ca974cef4e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\sample\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_55032c203a65275a826e8c7ff7d716926d3eca43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_e74942dff49ed178af2a888902cc57839ac11854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\.android\build-cache\bd86d96ebd33f92b72ca519f9fdaa8cbc9a507d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\quick-start\build\intermediates\pre-dexed\debug\classes_75b10c21ee778f17b24bb61cf46e22506a42f40a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Salman\.android\build-cache\3aeb027ed33a414518e46562d5c6247f8c4edf4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Salman\Desktop\OCRAPP\sample\build\intermediates\pre-dexed\debug\classes_7f870eca995b2fe677194a7675c0de4e5bc7442c.jar" />
+    </item>
+
+</items>
